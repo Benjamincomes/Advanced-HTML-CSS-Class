@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 40.37 41.18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-3);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="20.06" y1="3.22" x2="20.06" y2="13.01" gradientTransform="translate(0 46.4) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3d91cf"/>
+      <stop offset=".05" stop-color="#3e96d2"/>
+      <stop offset=".4" stop-color="#4bade1"/>
+      <stop offset=".72" stop-color="#55baea"/>
+      <stop offset="1" stop-color="#57bfed"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="22.14" y1="23.98" x2="35.23" y2="31.54" gradientTransform="translate(0 46.4) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#025155"/>
+      <stop offset=".61" stop-color="#3a816a"/>
+      <stop offset="1" stop-color="#539c63"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="-1.84" y1="16.95" x2="22.05" y2="30.74" gradientTransform="translate(0 46.4) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#025155"/>
+      <stop offset=".64" stop-color="#3a816a"/>
+      <stop offset="1" stop-color="#539c63"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="23.65" y1="37.17" x2="23.65" y2="45.96" gradientTransform="translate(0 46.4) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e27e26"/>
+      <stop offset=".73" stop-color="#fdba34"/>
+    </linearGradient>
+  </defs>
+  <g id="logo-icon">
+    <path id="water" class="cls-1" d="M17.32,21.15c-6.23,1.14-12.14,3.61-17.32,7.25,4.55,10.67,16.89,15.62,27.56,11.07,6.79-2.9,11.56-9.15,12.56-16.47-7.36-2.34-15.16-2.98-22.8-1.85Z"/>
+    <polygon id="mountain" class="cls-3" points="40.12 23.01 21.13 23.01 23.76 18.45 30.63 6.55 40.12 23.01"/>
+    <polygon id="mountain-2" class="cls-4" points="29.51 28.39 0 28.39 14.75 2.85 29.51 28.39"/>
+    <circle id="sun" class="cls-2" cx="23.65" cy="4.84" r="4.39"/>
+  </g>
+</svg>
